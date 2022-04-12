@@ -32,3 +32,6 @@ async function getSameNum(num) {
 for (let i = 0; i < 4; i++) {
   getSameNum(4).data;
 }
+
+
+
